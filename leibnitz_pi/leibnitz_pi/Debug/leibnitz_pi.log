@@ -1,0 +1,3 @@
+﻿  leibnitz_pi.cpp
+C:\Users\kxtie\source\repos\leibnitz_pi\leibnitz_pi\leibnitz_pi.cpp(28,80): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  leibnitz_pi.vcxproj -> C:\Users\kxtie\source\repos\leibnitz_pi\Debug\leibnitz_pi.exe
